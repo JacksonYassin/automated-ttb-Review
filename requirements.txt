@@ -1,0 +1,7 @@
+pandas
+numpy
+easyocr
+pytesseract
+opencv-python-headless
+rapidfuzz
+matplotlib
