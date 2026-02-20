@@ -15,6 +15,9 @@ env/
 # OCR / temp
 *.log
 
+# OS
+.DS_Store
+
 # Vscode
 .vscode/
 
