@@ -1,7 +1,8 @@
+streamlit
 pandas
 numpy
-easyocr
 pytesseract
 opencv-python-headless
 rapidfuzz
-matplotlib
+scikit-learn
+easyocr
