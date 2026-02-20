@@ -1,0 +1,98 @@
+[
+    {
+        "application_num": "CJ177443",
+        "brand_name": "Wheat Beer",
+        "class": "Wheat Beer",
+        "fanciful_name": null,
+        "bottler_name": "Example Brewing Company",
+        "bottler_address": "Baltimore, MD"
+    },
+    {
+        "application_num": "CL507720",
+        "brand_name": "BLACKSTONE",
+        "class": "Imperial Stout",
+        "fanciful_name": "Obsidian Crown",
+        "bottler_name": "Blackstone Brewing",
+        "bottler_address": "Nashville, TN"
+    },
+    {
+        "application_num": "CZ955994",
+        "brand_name": "BRONZE HARBOR",
+        "class": "Dockside Lager",
+        "fanciful_name": "Anchor Line",
+        "bottler_name": "Bronze Harbor Brewing",
+        "bottler_address": "Baltimore, MD"
+    },
+    {
+        "application_num": "ES720553",
+        "brand_name": "SUNFIELD",
+        "class": "Golden Prairie Ale",
+        "fanciful_name": null,
+        "bottler_name": "Prairie Wind Brewers",
+        "bottler_address": "Wichita, KS"
+    },
+    {
+        "application_num": "FM862502",
+        "brand_name": "OCEAN CREST",
+        "class": "Pacific Wheat",
+        "fanciful_name": "Salt Breeze",
+        "bottler_name": "Ocean Crest Brewing Co.",
+        "bottler_address": "San Luis Obispo, CA"
+    },
+    {
+        "application_num": "IA737886",
+        "brand_name": "SILVER BARREL",
+        "class": "Reserve Porter",
+        "fanciful_name": "Moon Cask",
+        "bottler_name": "Silver Barrel Brewing",
+        "bottler_address": "Columbus, OH"
+    },
+    {
+        "application_num": "LP601162",
+        "brand_name": "Wild Grove",
+        "class": "Forest IPA",
+        "fanciful_name": "Emerald Canopy",
+        "bottler_name": "Wild Grove Brewers",
+        "bottler_address": "Eugene, OR"
+    },
+    {
+        "application_num": "PJ890146",
+        "brand_name": "TWIN PINES",
+        "class": "Mountain IPA",
+        "fanciful_name": "Evergreen Rush",
+        "bottler_name": "Twin Pines Brewing",
+        "bottler_address": "Flagstaff, AZ"
+    },
+    {
+        "application_num": "PN093489",
+        "brand_name": "EMBER COAST",
+        "class": "Sunset Ale",
+        "fanciful_name": "Crimson Drift",
+        "bottler_name": "Ember Coast Brewing",
+        "bottler_address": "Tampa, FL"
+    },
+    {
+        "application_num": "TB264591",
+        "brand_name": "HIGH PLAINS",
+        "class": "Dry Prairie Lager",
+        "fanciful_name": null,
+        "bottler_name": "High Plains Brewing Co.",
+        "bottler_address": "Omaha, NE"
+    },
+    {
+        "application_num": "TC230612",
+        "brand_name": "Crowler",
+        "class": "Milo's Ale",
+        "fanciful_name": null,
+        "bottler_name": "Example Brewing Company",
+        "bottler_address": "Arlington, VA"
+    },
+    {
+        "application_num": "YB949889",
+        "brand_name": "IRON MAPLE",
+        "class": "Maple Porter",
+        "fanciful_name": null,
+        "bottler_name": "Iron Maple Brewing Co.",
+        "bottler_address": "Syracuse, NY"
+    }
+]

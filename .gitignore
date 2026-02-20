@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# OCR / temp
+*.log
+
+# Vscode
+.vscode/
+
+# Optional: large OCR models (EasyOCR downloads these)
+.easyocr/
